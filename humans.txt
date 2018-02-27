@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    el jefe
 
 # TECHNOLOGY COLOPHON
 
