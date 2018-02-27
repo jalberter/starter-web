@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Not for deployment
+Not for deployment...ever
